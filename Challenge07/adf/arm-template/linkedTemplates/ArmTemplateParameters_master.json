@@ -12,7 +12,7 @@
 			"value": ""
 		},
 		"data-ingestion-pipeline_properties_variables_data_file_name_defaultValue": {
-			"value": "porto_seguro_safe_driver_prediction_train.csv"
+			"value": "porto_seguro_safe_driver_prediction_input.csv"
 		},
 		"data-ingestion-pipeline_properties_variables_input_mount_point_name_defaultValue": {
 			"value": "/mnt/inputdata"
